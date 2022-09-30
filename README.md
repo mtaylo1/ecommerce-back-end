@@ -5,6 +5,7 @@
     
    ## Table of contents:
    -[Description](#description)
+   -[Link To Video](#linktovideo)
    -[Installation](#installation)
    -[Usage](#usage)
    -[Contribution](#contribution)
@@ -13,9 +14,13 @@
 
    ## Description:
    This is a back end for an e-commerce site. This is using a working Express.js API and configured to use Sequelize to interact with a MySQL database.
+
+   ## Link to Video
+    https://drive.google.com/file/d/1xYGpZVjG6ePVT31xjVgV363UmuWYFwXf/view
+
    ## Installation:
     Run the following commands:
-    
+
     `npm init`
 
     `npm install mysql2`
@@ -45,5 +50,6 @@
    No testing yet
    ## Contact Information: 
    -Github: mtaylo1 (https://github.com/mtaylo1)
+   
   
    
